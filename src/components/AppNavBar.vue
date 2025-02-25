@@ -9,6 +9,19 @@
 			class="ms-3"
 		/>
 
+		<v-btn
+			:to="'/wishlist'"
+			text="Wishlist"
+			slim
+			class="ms-3"
+		/>
+
+		<v-btn
+			:to="'/cart'"
+			text="Shopping Cart"
+			slim
+			class="ms-3"
+		/>
 		<!-- отобразить ссылки на избранное и корзину -->
 
 		<v-btn

@@ -10,12 +10,15 @@
     "lint": "eslint . --fix"
   },
   "dependencies": {
+    "@ag-grid-community/client-side-row-model": "^32.3.3",
     "@mdi/font": "7.4.47",
+    "ag-grid-react": "^33.1.1",
+    "ag-grid-vue3": "^33.1.1",
     "pinia": "2.3.1",
     "roboto-fontface": "*",
     "vue": "3.5.13",
-    "vuetify": "3.7.7",
-    "vue-router": "4.4.5"
+    "vue-router": "4.4.5",
+    "vuetify": "3.7.7"
   },
   "devDependencies": {
     "@eslint/js": "^9.14.0",
